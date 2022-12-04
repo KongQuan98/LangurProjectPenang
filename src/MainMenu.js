@@ -15,6 +15,8 @@ export default function MainMenu({navigation}) {
     await sound.playAsync();
   })
 
+  //adding comment
+
   useEffect(() => {
     return currentSound ? () => currentSound.unloadAsync() : undefined;
   }, [currentSound]);
