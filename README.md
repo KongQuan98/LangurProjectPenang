@@ -27,7 +27,7 @@
 <br>
 <h3>Reference Links 🎨</h3>
 
-- [Figma Link](www.figma.com/proto/isDJzbjvFSFlNCyQMm1gQS/LPP-Apps?node-id=3-166&starting-point-node-id=3%3A166&t=Rbg3246vQ8uh1YUz-1)
+- [Figma Link](https://www.figma.com/proto/isDJzbjvFSFlNCyQMm1gQS/LPP-Apps?node-id=3-166&starting-point-node-id=3%3A166&t=Rbg3246vQ8uh1YUz-1)
 - [Langur Project Penang](https://langurprojectpenang.com/)
 
 
